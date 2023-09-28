@@ -2,7 +2,7 @@
 
 - 💼 I’m currently making relocation easy at [Jobbatical](https://jobbatical.com)
 - 🌱 I’m currently trying to improve at Typescript
-- 💬 Ask me about my online JS game: [Aether MMO](https://aether.up.railway.app)
+- 💬 Ask me about my online JS game: [Aether MMO](https://aether.onrender.com)
 - 📫 How to reach me: trevorbonomi🌀gmail.com
 - 🚜 Click for [Portfolio](https://www.trevordesign.com)
 
